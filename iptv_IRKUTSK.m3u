@@ -1,0 +1,97 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="ИРКУТСК",Первый канал (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_1TV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 1 (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Матч! (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",НТВ (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Пятый канал (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_5TV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия K (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 24 (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Карусель (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ОТР (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_OTR.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ТВЦ (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_TVC.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",РЕН ТВ (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",СТС (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_STS.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Домашний (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ТВ3 (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_TV3.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Пятница! (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Звезда (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",МИР (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_MIR.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",ТНТ (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_TNT.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",МУЗ ТВ (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",АИСТ HD (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AISTHD.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",АКТИС HD720 (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",НТС HD (Иркутск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",БСТ-24 HD (Братск)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_BST24HD_BR.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",11 канал (Усолье-Сибирское)
+http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_11_USOLYE.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru",TNT4
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 tvg-id="Che.ru",Che!
+https://s1.merlive.am/chetv/index.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru",Pobeda
+http://178.217.72.66:8080/pobeda/index.m3u8
+#EXTINF:-1 tvg-id="RUTV.ru",RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-id="Kino24.ru",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="360.ru",360° (720p)
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 tvg-id="Enisey.ru",Енисей (1080p) [Not 24/7]
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Izvestia.ru",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru",ЛДПР ТВ (1080p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru",Russkiy roman
+https://s7.merlive.am/ruskiroman/index.m3u8
+#EXTINF:-1 tvg-id="Komedia.ru",Komedia
+https://s1.merlive.am/Komedia/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru",Kino TV
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru",V gostyakh u skazki
+https://s1.merlive.am/vgostyaxuskazki/index.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru",START Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 tvg-id="STARTWorld.ru",START World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 tvg-id="2x2.ru",2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru",BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEHits.ru",BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru",BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru",Auto Plus
+http://s1.merlive.am/Avtoplus/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru",.sci-fi
+http://s1.merlive.am/Sci-Fi/index.m3u8
+#EXTINF:-1 tvg-id="black.ru",.black
+http://s1.merlive.am/black/index.m3u8
+#EXTINF:-1 tvg-id="Solnce.ru",Solnce
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru",STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
