@@ -45,8 +45,6 @@ http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",БСТ-24 HD (Братск)
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_BST24HD_BR.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",11 канал (Усолье-Сибирское)
-http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_11_USOLYE.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru",TNT4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="Che.ru",Che!
