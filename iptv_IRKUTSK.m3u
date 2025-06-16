@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="ИРКУТСК",Первый канал (Иркутск)
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_1TV.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",Россия 1 (Иркутск)
