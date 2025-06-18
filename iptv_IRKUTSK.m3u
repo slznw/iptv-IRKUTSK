@@ -1,49 +1,49 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="ИРКУТСК",Первый канал (Иркутск)
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTINF:-1 group-title="ИРКУТСК",Первый канал 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_1TV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия 1 (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Россия 1 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Матч! (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Матч! 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",НТВ (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",НТВ 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Пятый канал (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Пятый канал 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_5TV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия K (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Россия K 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ROSSIAK.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Россия 24 (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Россия 24 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Карусель (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Карусель 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ОТР (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",ОТР 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_OTR.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ТВЦ (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",ТВЦ 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_TVC.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",РЕН ТВ (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",РЕН ТВ 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",СТС (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",СТС 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_STS.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Домашний (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Домашний 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ТВ3 (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",ТВ3 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_TV3.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Пятница! (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Пятница! 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",Звезда (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",Звезда 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",МИР (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",МИР 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_MIR.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",ТНТ (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",ТНТ 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_TNT.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",МУЗ ТВ (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",МУЗ ТВ 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",АИСТ HD (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",АИСТ HD 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AISTHD.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",АКТИС HD720 (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",АКТИС HD720 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",НТС HD (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",НТС HD 
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
-#EXTINF:-1 group-title="ИРКУТСК",[Радио] MCM HD720 (Иркутск)
+#EXTINF:-1 group-title="ИРКУТСК",[Радио] MCM HD720 
 http://dmi3y-tv.ru/hls/CH_MCMHD720_IRK.m3u8
 #EXTINF:-1 group-title="ИРКУТСК",БСТ-24 HD (Братск)
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_BST24HD_BR.m3u8
