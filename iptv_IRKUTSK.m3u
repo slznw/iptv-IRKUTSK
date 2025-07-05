@@ -103,3 +103,5 @@ http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:0 tvg-rec="7",E TV
+http://qbr3q7dn.rostelekom.xyz/iptv/YLSMFNF46GUTHC/736/index.m3u
